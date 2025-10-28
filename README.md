@@ -90,7 +90,7 @@ Download the IMDB dataset from: [Stanford AI Lab](http://ai.stanford.edu/~amaas/
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/chakkasandeep/imdb-sentiment-analysis.git
+git clone https://github.com/chakkasandeep/IMDB-Sentiment-Analysis-with-Transformers.git
 cd imdb-sentiment-analysis
 ```
 
